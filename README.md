@@ -23,3 +23,8 @@ Currently, I’m continuously developing my skills and learning new tools to bec
 ## 📈 My GitHub Stats:
 ### GitHub Stars
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekaziz-web&show_icons=true&theme=radical)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekaziz-web&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
