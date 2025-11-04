@@ -1,5 +1,5 @@
 # Hi, I'm Tarek Aziz 👋 
-## I'm Frontend Web Developer
+### I'm Frontend Web Developer
 <img src="https://i.postimg.cc/xTdNCHJN/post.png" alt=" image">
 
 ## 🚀 About Me
