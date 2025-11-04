@@ -1,6 +1,6 @@
 # Hi, I'm Tarek Aziz 👋 
 #### I'm Frontend Web Developer
-(https://i.postimg.cc/xTdNCHJN/post.png)
+<img src="https://i.postimg.cc/xTdNCHJN/post.png" alt=" image">
 
 ## 🚀 About Me
 Hi, I’m Tarek Aziz, a passionate Frontend Web Developer who loves building modern, responsive, and visually engaging web experiences. I specialize in HTML,CSS,JavaScript,TypeScript and  React, focusing on creating clean, efficient, and interactive interfaces that bring ideas to life.
