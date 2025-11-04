@@ -19,21 +19,7 @@ Currently, I’m continuously developing my skills and learning new tools to bec
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-## 📈 My GitHub Stats
+
+## 📈 My GitHub Stats:
 ### GitHub Stars
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tarekaziz-web)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/tarekaziz-web)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/tarekaziz-web&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/tarekaziz-web/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/tarekaziz-web)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/tarekaziz-web)  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
