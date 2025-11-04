@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tarek Aziz
+# Hi, I'm Tarek Aziz 👋 
 #### I'm Frontend Web Developer
 ![I'm Frontend Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -30,4 +30,9 @@ Currently, I’m continuously developing my skills and learning new tools to bec
 
 ####  Github Link
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekaziz-web&label=Profile%20views&color=0e75b6&style=flat" alt="tarekaziz-web" /> </p>
+
+## 📫 You can find me @
+<!-- YOU-CAN-FIND-ME:START -->
+- [Facebook](https://www.facebook.com/tarek.aziz.685216?_rdc=1&_rdr#) 😏
+<!-- YOU-CAN-FIND-ME:END -->
 
